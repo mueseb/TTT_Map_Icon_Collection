@@ -7,6 +7,7 @@
 	"addon_icon*.jpg",
         "*.psd",
         "*.vcproj",
-        "*.svn"
+        "*.svn",
+	"README.md"
 	]
 }
