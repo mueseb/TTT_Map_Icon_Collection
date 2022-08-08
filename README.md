@@ -1,5 +1,5 @@
 # TTT_Map_Icon_Collection
-Contains icons for the following maps:<br>
+### Contains icons for the following maps:<br>
 ttt_67thway_v14<br>
 ttt_67thway_v3<br>
 ttt_67thway_v3_winter_b3f<br>
