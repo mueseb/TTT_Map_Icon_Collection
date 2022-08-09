@@ -4,10 +4,11 @@
 	"tags":	[ "fun", "build" ],
 	"description": "Simple Icon Pack",
 	"ignore": [
-	"addon_icon*.jpg",
+        "addon_icon*.jpg",
         "*.psd",
         "*.vcproj",
         "*.svn",
-	"README.md"
+        "README.md",
+        ".git/*"
 	]
 }
