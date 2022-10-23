@@ -1,6 +1,6 @@
 # TTT_Map_Icon_Collection
 ## Steam Addon
-Addon link: https://steamcommunity.com/sharedfiles/filedetails/?id=2846416202
+Steam Workshop: https://steamcommunity.com/sharedfiles/filedetails/?id=2846416202
 ## Contains icons for the following maps:<br>
 ### Currently contains 189 Icons<br>
 ttt_67thway_v14<br>
